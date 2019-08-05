@@ -1,7 +1,7 @@
 # Count Duplicate Words
 
 Given a string like 
-```that that is is that that is not is not is that it it is```
+```that that is is that that is not is not is that it it is wutang```
 
 Count the number of unique words, and how many times the occur.
 
